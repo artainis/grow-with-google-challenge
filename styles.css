@@ -1,0 +1,33 @@
+/* add your CSS here */
+.card {
+  border: 1px solid #d4d4d4;
+  box-shadow: 5px 5px 2px #e9e9e9;
+  display: table;
+  padding: 1em;
+}
+
+.int-fact {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.snake {
+  width: 300px;
+  margin: auto;
+}
+
+.info {
+  border-style: solid;
+  border-color: #d4d4d4;
+  width: 262px;
+  display: block;
+  padding: 0 16px 0 16px;
+}
