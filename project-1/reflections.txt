@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I learned some new elements such as <s>, <figure>, and <hr> that I didn't know before. I took a basic E-Commerce university course and a CodeAcademy HTML course but there is still a lot of HTML I have yet to learn. Most of the lessons were easy due to this previous knowledge. Nothing has really been difficult so far. I used online resources such as Google, StackOverflow, Wikipedia, and the MDN documentation in order to fill in the gaps in knowledge. I will continue with the same process in future challenges.
