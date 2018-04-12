@@ -32,8 +32,8 @@ function makeGrid() {
   return false;
 });*/
 
+// Change table size dynamically without reloading webpage
 $('#sizePicker').on('submit', function () {
   makeGrid();
   return false;
 });
-
